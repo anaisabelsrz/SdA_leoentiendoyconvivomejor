@@ -1,0 +1,1567 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ode SYSTEM "content.dtd">
+<ode xmlns="http://www.intef.es/xsd/ode" version="2.0">
+<userPreferences>
+  <userPreference>
+    <key>theme</key>
+    <value>neo</value>
+  </userPreference>
+</userPreferences>
+<odeResources>
+  <odeResource>
+    <key>odeId</key>
+    <value>202604102150274049G6</value>
+  </odeResource>
+  <odeResource>
+    <key>odeVersionId</key>
+    <value>20260410215027DQ8G3Z</value>
+  </odeResource>
+  <odeResource>
+    <key>exe_version</key>
+    <value>3.0</value>
+  </odeResource>
+</odeResources>
+<odeProperties>
+  <odeProperty>
+    <key>pp_title</key>
+    <value>Leo, entiendo y convivo mejor</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_author</key>
+    <value>Ana Isabel Suárez Díaz</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_description</key>
+    <value>Esta situación de aprendizaje está diseñada para alumnado de 1º ESO que acude a la optativa Taller de Competencias y tiene como objetivo reforzar la competencia lectora a la vez que se trabaja la convivencia y la educación emocional.</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_lang</key>
+    <value>es</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_license</key>
+    <value>creative commons: attribution - share alike 4.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_licenseUrl</key>
+    <value>https://creativecommons.org/licenses/by-sa/4.0/</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_theme</key>
+    <value>neo</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_exelearning_version</key>
+    <value>v4.0.0-beta3</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_modified</key>
+    <value>1775846553515</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addExeLink</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addPagination</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addSearchBox</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addAccessibilityToolbar</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addMathJax</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>exportSource</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_globalFont</key>
+    <value>opendyslexic</value>
+  </odeProperty>
+</odeProperties>
+<odeNavStructures>
+<odeNavStructure>
+  <odePageId>1f322d9e-dab8-48a2-9545-eea08ff90d1b</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Introducción</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Introducción</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Introducción</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>1f322d9e-dab8-48a2-9545-eea08ff90d1b</odePageId>
+      <odeBlockId>block-1775839991519-crx5iu17k</odeBlockId>
+      <blockName>¿Qué vamos a hacer?</blockName>
+      <iconName>ask</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>1f322d9e-dab8-48a2-9545-eea08ff90d1b</odePageId>
+          <odeBlockId>block-1775839991519-crx5iu17k</odeBlockId>
+          <odeIdeviceId>idevice-1775839991514-6a04usbmg</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>En esta situación de aprendizaje vamos a trabajar la lectura y la convivencia. <br />Leeremos textos sobre situaciones reales que pueden ocurrir en el instituto, aprenderemos a comprenderlos mejor y reflexionaremos sobre cómo actuar. <br />Después, crearemos una infografía con normas importantes de convivencia y, por último, grabaremos un podcast para explicarlas. </p>
+<p>Objetivos: </p>
+<ul>
+<li>Comprender textos de forma clara</li>
+<li>Identificar problemas de convivencia  </li>
+<li>Expresar ideas de forma sencilla  </li>
+<li>Trabajar en equipo  </li>
+<li>Crear una infografía y un podcast  </li>
+</ul>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1775839991514-6a04usbmg","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>En esta situación de aprendizaje vamos a trabajar la lectura y la convivencia. <br />Leeremos textos sobre situaciones reales que pueden ocurrir en el instituto, aprenderemos a comprenderlos mejor y reflexionaremos sobre cómo actuar. <br />Después, crearemos una infografía con normas importantes de convivencia y, por último, grabaremos un podcast para explicarlas. </p>\n<p>Objetivos: </p>\n<ul>\n<li>Comprender textos de forma clara</li>\n<li>Identificar problemas de convivencia  </li>\n<li>Expresar ideas de forma sencilla  </li>\n<li>Trabajar en equipo  </li>\n<li>Crear una infografía y un podcast  </li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>1f322d9e-dab8-48a2-9545-eea08ff90d1b</odePageId>
+      <odeBlockId>block-1775840256275-x9vl18j5c</odeBlockId>
+      <blockName>Antes de empezar</blockName>
+      <iconName>think</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>1f322d9e-dab8-48a2-9545-eea08ff90d1b</odePageId>
+          <odeBlockId>block-1775840256275-x9vl18j5c</odeBlockId>
+          <odeIdeviceId>idevice-1775840256271-ihjo30ile</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Reflexiona sobre las siguientes preguntas</p>
+<ul>
+<li>¿Qué haces cuando tienes un problema con un compañero o compañera?</li>
+<li>¿Crees que es importante escuchar a los demás? ¿Por qué?  </li>
+</ul>
+<p>En grupo compartiremos nuestras reflexiones.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1775840256271-ihjo30ile","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Reflexiona sobre las siguientes preguntas</p>\n<ul>\n<li>¿Qué haces cuando tienes un problema con un compañero o compañera?</li>\n<li>¿Crees que es importante escuchar a los demás? ¿Por qué?  </li>\n</ul>\n<p>En grupo compartiremos nuestras reflexiones.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1775840556601-rj1k8p4i0</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>SESIÓN 1- LEEMOS</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>SESIÓN 1- LEEMOS</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1775840556601-rj1k8p4i0</odePageId>
+      <odeBlockId>block-1775840567185-332xjnz5q</odeBlockId>
+      <blockName>Instrucciones</blockName>
+      <iconName>guide</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1775840556601-rj1k8p4i0</odePageId>
+          <odeBlockId>block-1775840567185-332xjnz5q</odeBlockId>
+          <odeIdeviceId>idevice-1775840567181-nbzeu4hm3</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <ul>
+<li>Trabajamos por parejas: la profesora os dirá cuál será vuestra pareja de trabajo.</li>
+<li>Cada pareja tendrá un texto sobre el que tendrá que realizar dos actividades  </li>
+<li>Es importante leer con atención y respetar los turnos: habrá 20 minutos aproximadamente para cada tarea.</li>
+<li>Si no da tiempo a terminar la tarea habrá que completarla en casa.</li>
+</ul>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1775840567181-nbzeu4hm3","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<ul>\n<li>Trabajamos por parejas: la profesora os dirá cuál será vuestra pareja de trabajo.</li>\n<li>Cada pareja tendrá un texto sobre el que tendrá que realizar dos actividades  </li>\n<li>Es importante leer con atención y respetar los turnos: habrá 20 minutos aproximadamente para cada tarea.</li>\n<li>Si no da tiempo a terminar la tarea habrá que completarla en casa.</li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1775840733166-ov2tr46c7</odePageId>
+  <odeParentPageId>page-1775840556601-rj1k8p4i0</odeParentPageId>
+  <pageName>Texto 1</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Texto 1</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1775840733166-ov2tr46c7</odePageId>
+      <odeBlockId>block-1775840749082-6hl64ul8h</odeBlockId>
+      <blockName>Un recreo con problemas</blockName>
+      <iconName>book</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1775840733166-ov2tr46c7</odePageId>
+          <odeBlockId>block-1775840749082-6hl64ul8h</odeBlockId>
+          <odeIdeviceId>idevice-1775840749080-92j16j2ks</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><img src="{{context_path}}/content/resources/mceclip0.png" width="221" height="216" style="display: block; margin-left: auto; margin-right: auto;" /></p>
+<p>En el recreo, Marcos y Dani estaban jugando al fútbol. <br />Marcos quería ser siempre el capitán del equipo y no dejaba elegir a los demás. <br />Dani se enfadó porque nunca le pasaban el balón. <br />Entonces, Dani empezó a gritar y empujó a Marcos. <br />Otros compañeros miraban, pero no sabían qué hacer. <br />La profesora se acercó y habló con ellos. <br />Les explicó que debían respetarse, escuchar a los demás y jugar en equipo. <br />Al final, Marcos y Dani hablaron y decidieron turnarse para ser capitanes. </p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1775840749080-92j16j2ks","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><img src=\"{{context_path}}/content/resources/mceclip0.png\" width=\"221\" height=\"216\" style=\"display: block; margin-left: auto; margin-right: auto;\" /></p>\n<p>En el recreo, Marcos y Dani estaban jugando al fútbol. <br />Marcos quería ser siempre el capitán del equipo y no dejaba elegir a los demás. <br />Dani se enfadó porque nunca le pasaban el balón. <br />Entonces, Dani empezó a gritar y empujó a Marcos. <br />Otros compañeros miraban, pero no sabían qué hacer. <br />La profesora se acercó y habló con ellos. <br />Les explicó que debían respetarse, escuchar a los demás y jugar en equipo. <br />Al final, Marcos y Dani hablaron y decidieron turnarse para ser capitanes. </p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1775840733166-ov2tr46c7</odePageId>
+      <odeBlockId>block-1775841225382-on421nvfr</odeBlockId>
+      <blockName>Estación 1: Buscamos pistas</blockName>
+      <iconName>observe</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1775840733166-ov2tr46c7</odePageId>
+          <odeBlockId>block-1775841225382-on421nvfr</odeBlockId>
+          <odeIdeviceId>idevice-1775841225377-z3xf8rcvp</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Lee el texto y haz lo siguiente: </p>
+<p>Subraya con amarillo quiénes participan  <br />Rodea con bolígrafo rojo el problema  <br />Marca la solución con color verde <br />Después escribe: <br />El problema es: __________  <br />La solución es: __________</p>
+<p>Puedes apoyarte en tu compañero/a si no tienes muy claro qué señalar. Puedes utilizar lápiz antes de marcarlo a bolígrafo.  Al finalizar, la profesora os entregará un texto modelo para que compruebes la respuesta.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1775841225377-z3xf8rcvp","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Lee el texto y haz lo siguiente: </p>\n<p>Subraya con amarillo quiénes participan  <br />Rodea con bolígrafo rojo el problema  <br />Marca la solución con color verde <br />Después escribe: <br />El problema es: __________  <br />La solución es: __________</p>\n<p>Puedes apoyarte en tu compañero/a si no tienes muy claro qué señalar. Puedes utilizar lápiz antes de marcarlo a bolígrafo.  Al finalizar, la profesora os entregará un texto modelo para que compruebes la respuesta.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1775840733166-ov2tr46c7</odePageId>
+      <odeBlockId>block-1775841298475-3jddvvgjx</odeBlockId>
+      <blockName>Estación 2: Entendemos el texto</blockName>
+      <iconName>think</iconName>
+      <odePagStructureOrder>2</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1775840733166-ov2tr46c7</odePageId>
+          <odeBlockId>block-1775841298475-3jddvvgjx</odeBlockId>
+          <odeIdeviceId>idevice-1775841298473-8ymxo79ls</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Después de leer el texto, responde a las siguientes preguntas. Luego comparte tus respuestas con tu compañero/a. Si tienes dudas pregunta a la profesora.</p>
+<p>¿Quiénes aparecen en la historia?  <br />¿Dónde ocurre?  <br />¿Qué problema hay?  <br />¿Por qué se enfadan?  <br />¿Cómo se soluciona el problema?</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1775841298473-8ymxo79ls","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Después de leer el texto, responde a las siguientes preguntas. Luego comparte tus respuestas con tu compañero/a. Si tienes dudas pregunta a la profesora.</p>\n<p>¿Quiénes aparecen en la historia?  <br />¿Dónde ocurre?  <br />¿Qué problema hay?  <br />¿Por qué se enfadan?  <br />¿Cómo se soluciona el problema?</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1775840744910-yol5bkozx</odePageId>
+  <odeParentPageId>page-1775840556601-rj1k8p4i0</odeParentPageId>
+  <pageName>Texto 2</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Texto 2</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1775840744910-yol5bkozx</odePageId>
+      <odeBlockId>block-1775840785611-4wjyab5io</odeBlockId>
+      <blockName>Un malentendido en clase</blockName>
+      <iconName>book</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1775840744910-yol5bkozx</odePageId>
+          <odeBlockId>block-1775840785611-4wjyab5io</odeBlockId>
+          <odeIdeviceId>idevice-1775840785607-j4hrzhgab</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><img src="{{context_path}}/content/resources/mceclip1.png" width="214" height="217" style="display: block; margin-left: auto; margin-right: auto;" /></p>
+<p>En clase, Laura y Sara estaban haciendo un trabajo en grupo. <br />Laura pensaba que Sara no estaba trabajando lo suficiente. <br />Sara creía que Laura mandaba demasiado. <br />Empezaron a discutir y dejaron de hablarse. <br />El ambiente en el grupo se volvió incómodo. <br />El profesor se dio cuenta y habló con ellas. <br />Les pidió que se escucharan y repartieran mejor las tareas. <br />Al final, Laura y Sara hablaron con calma y terminaron el trabajo juntas. </p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1775840785607-j4hrzhgab","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><img src=\"{{context_path}}/content/resources/mceclip1.png\" width=\"214\" height=\"217\" style=\"display: block; margin-left: auto; margin-right: auto;\" /></p>\n<p>En clase, Laura y Sara estaban haciendo un trabajo en grupo. <br />Laura pensaba que Sara no estaba trabajando lo suficiente. <br />Sara creía que Laura mandaba demasiado. <br />Empezaron a discutir y dejaron de hablarse. <br />El ambiente en el grupo se volvió incómodo. <br />El profesor se dio cuenta y habló con ellas. <br />Les pidió que se escucharan y repartieran mejor las tareas. <br />Al final, Laura y Sara hablaron con calma y terminaron el trabajo juntas. </p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1775840744910-yol5bkozx</odePageId>
+      <odeBlockId>block-1775840858531-f447j51vl</odeBlockId>
+      <blockName>Estación 1: Entendemos el texto</blockName>
+      <iconName>think</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1775840744910-yol5bkozx</odePageId>
+          <odeBlockId>block-1775840858531-f447j51vl</odeBlockId>
+          <odeIdeviceId>idevice-1775840858526-qgoytxaze</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Después de leer el texto, responde a las siguientes preguntas. Luego comparte tus respuestas con tu compañero/a. Si tienes dudas pregunta a la profesora.</p>
+<p>¿Quiénes aparecen en la historia?  <br />¿Dónde ocurre?  <br />¿Qué problema hay?  <br />¿Por qué se enfadan?  <br />¿Cómo se soluciona el problema?  <br /><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1775840858526-qgoytxaze","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Después de leer el texto, responde a las siguientes preguntas. Luego comparte tus respuestas con tu compañero/a. Si tienes dudas pregunta a la profesora.</p>\n<p>¿Quiénes aparecen en la historia?  <br />¿Dónde ocurre?  <br />¿Qué problema hay?  <br />¿Por qué se enfadan?  <br />¿Cómo se soluciona el problema?  <br /><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1775840744910-yol5bkozx</odePageId>
+      <odeBlockId>block-1775840945003-h5oeuika9</odeBlockId>
+      <blockName>Estación 2: Buscamos pistas</blockName>
+      <iconName>observe</iconName>
+      <odePagStructureOrder>2</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1775840744910-yol5bkozx</odePageId>
+          <odeBlockId>block-1775840945003-h5oeuika9</odeBlockId>
+          <odeIdeviceId>idevice-1775840945000-b5okoimq2</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Lee el texto y haz lo siguiente: </p>
+<p>Subraya con amarillo quiénes participan  <br />Rodea con bolígrafo rojo el problema  <br />Marca la solución con color verde <br />Después escribe: <br />El problema es: __________  <br />La solución es: __________</p>
+<p>Puedes apoyarte en tu compañero/a si no tienes muy claro qué señalar. Puedes utilizar lápiz antes de marcarlo a bolígrafo.  Al finalizar, la profesora os entregará un texto modelo para que compruebes la respuesta.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1775840945000-b5okoimq2","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Lee el texto y haz lo siguiente: </p>\n<p>Subraya con amarillo quiénes participan  <br />Rodea con bolígrafo rojo el problema  <br />Marca la solución con color verde <br />Después escribe: <br />El problema es: __________  <br />La solución es: __________</p>\n<p>Puedes apoyarte en tu compañero/a si no tienes muy claro qué señalar. Puedes utilizar lápiz antes de marcarlo a bolígrafo.  Al finalizar, la profesora os entregará un texto modelo para que compruebes la respuesta.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1775841369368-j4v126ven</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>SESIÓN 2 - LEEMOS</pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>SESIÓN 2 - LEEMOS</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1775841369368-j4v126ven</odePageId>
+      <odeBlockId>block-1775841437057-virvxf9vk</odeBlockId>
+      <blockName>Instrucciones</blockName>
+      <iconName>guide</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1775841369368-j4v126ven</odePageId>
+          <odeBlockId>block-1775841437057-virvxf9vk</odeBlockId>
+          <odeIdeviceId>idevice-1775841437055-wiy9c41yn</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <ul>
+<li>Trabajamos por parejas: la profesora os dirá cuál será vuestra pareja de trabajo.</li>
+<li>Cada pareja tendrá un texto sobre el que tendrá que realizar dos actividades. Si en la sesión anterior trabajamos con el Texto 1, en esta sesión nos tocará trabajar con el Texto 2.</li>
+<li>Es importante leer con atención y respetar los turnos: habrá 20 minutos aproximadamente para cada tarea.</li>
+<li>Si no da tiempo a terminar la tarea habrá que completarla en casa.</li>
+</ul>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1775841437055-wiy9c41yn","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<ul>\n<li>Trabajamos por parejas: la profesora os dirá cuál será vuestra pareja de trabajo.</li>\n<li>Cada pareja tendrá un texto sobre el que tendrá que realizar dos actividades. Si en la sesión anterior trabajamos con el Texto 1, en esta sesión nos tocará trabajar con el Texto 2.</li>\n<li>Es importante leer con atención y respetar los turnos: habrá 20 minutos aproximadamente para cada tarea.</li>\n<li>Si no da tiempo a terminar la tarea habrá que completarla en casa.</li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1775842943648-9v2dqnylw</odePageId>
+  <odeParentPageId>page-1775841369368-j4v126ven</odeParentPageId>
+  <pageName>Texto 1</pageName>
+  <odeNavStructureOrder>7</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Texto 1</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1775842943648-9v2dqnylw</odePageId>
+      <odeBlockId>block-1775841401810-hzbqwotyh</odeBlockId>
+      <blockName>Un recreo con problemas</blockName>
+      <iconName>book</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1775842943648-9v2dqnylw</odePageId>
+          <odeBlockId>block-1775841401810-hzbqwotyh</odeBlockId>
+          <odeIdeviceId>idevice-1775841401810-lm7cef47l</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>La profesora os entregará el texto en varios papeles:</p>
+<p>Papel 1: La profesora se acercó y habló con ellos. <br />Les explicó que debían respetarse, escuchar a los demás y jugar en equipo. </p>
+<p>Papel 2: Entonces, Dani empezó a gritar y empujó a Marcos. <br />Otros compañeros miraban, pero no sabían qué hacer. </p>
+<p>Papel 3: Al final, Marcos y Dani hablaron y decidieron turnarse para ser capitanes. </p>
+<p>Papel 4: En el recreo, Marcos y Dani estaban jugando al fútbol. <br />Marcos quería ser siempre el capitán del equipo y no dejaba elegir a los demás. <br />Dani se enfadó porque nunca le pasaban el balón. </p>
+<p><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1775841401810-lm7cef47l","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>La profesora os entregará el texto en varios papeles:</p>\n<p>Papel 1: La profesora se acercó y habló con ellos. <br />Les explicó que debían respetarse, escuchar a los demás y jugar en equipo. </p>\n<p>Papel 2: Entonces, Dani empezó a gritar y empujó a Marcos. <br />Otros compañeros miraban, pero no sabían qué hacer. </p>\n<p>Papel 3: Al final, Marcos y Dani hablaron y decidieron turnarse para ser capitanes. </p>\n<p>Papel 4: En el recreo, Marcos y Dani estaban jugando al fútbol. <br />Marcos quería ser siempre el capitán del equipo y no dejaba elegir a los demás. <br />Dani se enfadó porque nunca le pasaban el balón. </p>\n<p><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1775842943648-9v2dqnylw</odePageId>
+      <odeBlockId>block-1775841401810-7vkfu2bev</odeBlockId>
+      <blockName>Estación 3: Ordenamos la historia</blockName>
+      <iconName>competencies</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1775842943648-9v2dqnylw</odePageId>
+          <odeBlockId>block-1775841401810-7vkfu2bev</odeBlockId>
+          <odeIdeviceId>idevice-1775841401810-cgay94it1</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Nos han entregado los papeles desordenados por lo que tenemos que ordenar la historia.<br />Ordena los hechos de la historia, escribiendo el orden correcto (1–4)  <br /></p>
+<p>Esto te ayudará a ordenarlo:</p>
+<p><strong>Piensa qué pasa primero y qué pasa después  </strong><br /><strong>Después responde: ¿Qué ocurre al final? </strong></p>
+<p>Cuando finalice la tarea la profesora os entregará el texto completo para que comprobeis vuestra respuesta.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1775841401810-cgay94it1","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Nos han entregado los papeles desordenados por lo que tenemos que ordenar la historia.<br />Ordena los hechos de la historia, escribiendo el orden correcto (1–4)  <br /></p>\n<p>Esto te ayudará a ordenarlo:</p>\n<p><strong>Piensa qué pasa primero y qué pasa después  </strong><br /><strong>Después responde: ¿Qué ocurre al final? </strong></p>\n<p>Cuando finalice la tarea la profesora os entregará el texto completo para que comprobeis vuestra respuesta.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1775842943648-9v2dqnylw</odePageId>
+      <odeBlockId>block-1775841401810-08ncbg10h</odeBlockId>
+      <blockName>Estación 4: Extraemos las ideas clave</blockName>
+      <iconName>discuss</iconName>
+      <odePagStructureOrder>2</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1775842943648-9v2dqnylw</odePageId>
+          <odeBlockId>block-1775841401810-08ncbg10h</odeBlockId>
+          <odeIdeviceId>idevice-1775841401810-a0fxcjp3y</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Después de leer el texto escribe 3 normas de convivencia que aparecen en el texto: </p>
+<p>1.</p>
+<p>2.</p>
+<p>3.<br /> </p>
+<p> Elige una norma y explícalo con tus palabras: </p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1775841401810-a0fxcjp3y","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Después de leer el texto escribe 3 normas de convivencia que aparecen en el texto: </p>\n<p>1.</p>\n<p>2.</p>\n<p>3.<br /> </p>\n<p> Elige una norma y explícalo con tus palabras: </p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1775843037540-cswk02ley</odePageId>
+  <odeParentPageId>page-1775841369368-j4v126ven</odeParentPageId>
+  <pageName>Texto 2</pageName>
+  <odeNavStructureOrder>8</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Texto 2</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1775843037540-cswk02ley</odePageId>
+      <odeBlockId>block-1775841414892-gxipnqvm1</odeBlockId>
+      <blockName>Un malentendido en clase</blockName>
+      <iconName>book</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1775843037540-cswk02ley</odePageId>
+          <odeBlockId>block-1775841414892-gxipnqvm1</odeBlockId>
+          <odeIdeviceId>idevice-1775841414892-ypr0at523</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>La profesora os entregará el texto en varios papeles:</p>
+<p>Papel 1: Empezaron a discutir y dejaron de hablarse. <br />El ambiente en el grupo se volvió incómodo. </p>
+<p>Papel 2: Al final, Laura y Sara hablaron con calma y terminaron el trabajo juntas. </p>
+<p>Papel 3: En clase, Laura y Sara estaban haciendo un trabajo en grupo. <br />Laura pensaba que Sara no estaba trabajando lo suficiente. <br />Sara creía que Laura mandaba demasiado. </p>
+<p>El profesor se dio cuenta y habló con ellas. <br />Les pidió que se escucharan y repartieran mejor las tareas</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1775841414892-ypr0at523","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>La profesora os entregará el texto en varios papeles:</p>\n<p>Papel 1: Empezaron a discutir y dejaron de hablarse. <br />El ambiente en el grupo se volvió incómodo. </p>\n<p>Papel 2: Al final, Laura y Sara hablaron con calma y terminaron el trabajo juntas. </p>\n<p>Papel 3: En clase, Laura y Sara estaban haciendo un trabajo en grupo. <br />Laura pensaba que Sara no estaba trabajando lo suficiente. <br />Sara creía que Laura mandaba demasiado. </p>\n<p>El profesor se dio cuenta y habló con ellas. <br />Les pidió que se escucharan y repartieran mejor las tareas</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1775843037540-cswk02ley</odePageId>
+      <odeBlockId>block-1775841414892-voa4wq5o3</odeBlockId>
+      <blockName>Estación 3: Ordenamos la historia</blockName>
+      <iconName>competencies</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1775843037540-cswk02ley</odePageId>
+          <odeBlockId>block-1775841414892-voa4wq5o3</odeBlockId>
+          <odeIdeviceId>idevice-1775841414892-8e0uif6nd</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Nos han entregado los papeles desordenados por lo que tenemos que ordenar la historia.<br />Ordena los hechos de la historia, escribiendo el orden correcto (1–4)  </p>
+<p><br />Esto te ayudará a ordenarlo:</p>
+<p><strong>Piensa qué pasa primero y qué pasa después  </strong><br /><strong>Después responde: ¿Qué ocurre al final? </strong></p>
+<p>Cuando finalice la tarea la profesora os entregará el texto completo para que comprobeis vuestra respuesta.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1775841414892-8e0uif6nd","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Nos han entregado los papeles desordenados por lo que tenemos que ordenar la historia.<br />Ordena los hechos de la historia, escribiendo el orden correcto (1–4)  </p>\n<p><br />Esto te ayudará a ordenarlo:</p>\n<p><strong>Piensa qué pasa primero y qué pasa después  </strong><br /><strong>Después responde: ¿Qué ocurre al final? </strong></p>\n<p>Cuando finalice la tarea la profesora os entregará el texto completo para que comprobeis vuestra respuesta.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1775843037540-cswk02ley</odePageId>
+      <odeBlockId>block-1775841414892-pxdwizjml</odeBlockId>
+      <blockName>Estación 4: Extraemos ideas claves</blockName>
+      <iconName>discuss</iconName>
+      <odePagStructureOrder>2</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1775843037540-cswk02ley</odePageId>
+          <odeBlockId>block-1775841414892-pxdwizjml</odeBlockId>
+          <odeIdeviceId>idevice-1775841414892-0dfur182m</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Después de leer el texto escribe 3 normas de convivencia que aparecen en el texto: </p>
+<p>1.</p>
+<p>2.</p>
+<p>3.<br /> </p>
+<p> Elige una norma y explícalo con tus palabras: </p>
+<p></p>
+<p>Compartelo con tu compañero y llegar a un consenso de cuáles son las 3 normas más importantes.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1775841414892-0dfur182m","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Después de leer el texto escribe 3 normas de convivencia que aparecen en el texto: </p>\n<p>1.</p>\n<p>2.</p>\n<p>3.<br /> </p>\n<p> Elige una norma y explícalo con tus palabras: </p>\n<p></p>\n<p>Compartelo con tu compañero y llegar a un consenso de cuáles son las 3 normas más importantes.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1775843313529-xpjkqyg2r</odePageId>
+  <odeParentPageId>page-1775841369368-j4v126ven</odeParentPageId>
+  <pageName>Observamos en el recreo</pageName>
+  <odeNavStructureOrder>9</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Observamos en el recreo</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1775843313529-xpjkqyg2r</odePageId>
+      <odeBlockId>block-1775843342095-blzlz33i9</odeBlockId>
+      <blockName>Actividad complementaria</blockName>
+      <iconName>observe</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1775843313529-xpjkqyg2r</odePageId>
+          <odeBlockId>block-1775843342095-blzlz33i9</odeBlockId>
+          <odeIdeviceId>idevice-1775843342091-w4xzaquaf</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Durante el recreo, observa lo que ocurre a tu alrededor. <br />Fíjate en cómo se comportan los compañeros y compañeras.</p>
+<p>Preguntas que te pueden ayudar:</p>
+<ul>
+<li>¿Qué situaciones positivas has visto?  </li>
+<li>¿Has visto algún conflicto? ¿Cuál?  </li>
+<li>¿Se respetan las normas?  </li>
+<li>¿Qué mejorarías?  </li>
+</ul>
+<p>Apúntalo en un papel, en la próxima clase hablaremos sobre ello.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1775843342091-w4xzaquaf","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Durante el recreo, observa lo que ocurre a tu alrededor. <br />Fíjate en cómo se comportan los compañeros y compañeras.</p>\n<p>Preguntas que te pueden ayudar:</p>\n<ul>\n<li>¿Qué situaciones positivas has visto?  </li>\n<li>¿Has visto algún conflicto? ¿Cuál?  </li>\n<li>¿Se respetan las normas?  </li>\n<li>¿Qué mejorarías?  </li>\n</ul>\n<p>Apúntalo en un papel, en la próxima clase hablaremos sobre ello.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1775843135302-oi9zxwqog</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>SESIÓN 3: CREAMOS NUESTRA INFOGRAFÍA</pageName>
+  <odeNavStructureOrder>7</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>SESIÓN 3: CREAMOS NUESTRA INFOGRAFÍA</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1775843135302-oi9zxwqog</odePageId>
+      <odeBlockId>block-1775843431349-01g2g8xfy</odeBlockId>
+      <blockName>Reflexión inicial</blockName>
+      <iconName>technology</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1775843135302-oi9zxwqog</odePageId>
+          <odeBlockId>block-1775843431349-01g2g8xfy</odeBlockId>
+          <odeIdeviceId>idevice-1775843431339-ga13f6l4b</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Vamos a responder en grupo a estas preguntas:</p>
+<ul>
+<li>Compartiremos lo observado en el recreo</li>
+<li>¿Tiene alguna relación con lo que hemos leído? </li>
+</ul>
+<p></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1775843431339-ga13f6l4b","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Vamos a responder en grupo a estas preguntas:</p>\n<ul>\n<li>Compartiremos lo observado en el recreo</li>\n<li>¿Tiene alguna relación con lo que hemos leído? </li>\n</ul>\n<p></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1775843135302-oi9zxwqog</odePageId>
+      <odeBlockId>block-1775843529645-w4ucjkqb3</odeBlockId>
+      <blockName>Instrucciones</blockName>
+      <iconName>guide</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1775843135302-oi9zxwqog</odePageId>
+          <odeBlockId>block-1775843529645-w4ucjkqb3</odeBlockId>
+          <odeIdeviceId>idevice-1775843529641-23e1ztv5q</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Vais a crear una infografía en pareja en Canva. Si no sabeis que es una Infografía os dejo información relevante en la siguiente página.<br /></p>
+<p>Debe incluir:</p>
+<ul>
+<li>3 o 4 normas de convivencia  </li>
+<li>Frases cortas y claras  </li>
+<li>Imágenes o iconos  </li>
+<li>Puedes usar lo aprendido en los textos y en el recreo, sobre todo las conclusiones que extraisteis en la Estación 4.</li>
+<li title="">Habrá que compartir esa infografía con la profesora para que pueda verla. ¿Cómo? 
+<figure class="exe-figure exe-media position-center" style="width: 300px;" id="fig_xby9x9o99">
+<figcaption class="figcaption header"><strong>Compartir un documento en Canva</strong></figcaption>
+<iframe width="300" height="150" src="https://www.youtube.com/embed/qq5cVvhPCz8" allowfullscreen="allowfullscreen"></iframe></figure>
+</li>
+<li title="">Acordaros de poner vuestro nombre y apellidos.</li>
+</ul>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1775843529641-23e1ztv5q","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Vais a crear una infografía en pareja en Canva. Si no sabeis que es una Infografía os dejo información relevante en la siguiente página.<br /></p>\n<p>Debe incluir:</p>\n<ul>\n<li>3 o 4 normas de convivencia  </li>\n<li>Frases cortas y claras  </li>\n<li>Imágenes o iconos  </li>\n<li>Puedes usar lo aprendido en los textos y en el recreo, sobre todo las conclusiones que extraisteis en la Estación 4.</li>\n<li title=\"\">Habrá que compartir esa infografía con la profesora para que pueda verla. ¿Cómo? \n<figure class=\"exe-figure exe-media position-center\" style=\"width: 300px;\" id=\"fig_xby9x9o99\">\n<figcaption class=\"figcaption header\"><strong>Compartir un documento en Canva</strong></figcaption>\n<iframe width=\"300\" height=\"150\" src=\"https://www.youtube.com/embed/qq5cVvhPCz8\" allowfullscreen=\"allowfullscreen\"></iframe></figure>\n</li>\n<li title=\"\">Acordaros de poner vuestro nombre y apellidos.</li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1775846054493-ge5rs9br3</odePageId>
+  <odeParentPageId>page-1775843135302-oi9zxwqog</odeParentPageId>
+  <pageName>¿Qué es una infografía?</pageName>
+  <odeNavStructureOrder>12</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>¿Qué es una infografía?</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1775846054493-ge5rs9br3</odePageId>
+      <odeBlockId>block-1775846089835-xm3rucfo9</odeBlockId>
+      <blockName>Descripción</blockName>
+      <iconName>geography</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1775846054493-ge5rs9br3</odePageId>
+          <odeBlockId>block-1775846089835-xm3rucfo9</odeBlockId>
+          <odeIdeviceId>idevice-1775846089831-caafiwwc3</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Una infografía es una forma de explicar información de manera clara y visual. Combina palabras cortas, dibujos, iconos o imágenes para que sea fácil de entender.</p>
+<p>Sirve para mostrar ideas importantes de forma rápida, sin escribir mucho texto.</p>
+<figure class="exe-figure exe-media position-center" style="width: 300px;" id="fig_7gczfmymz">
+<figcaption class="figcaption header"><strong>Cómo hacer una infografía en Canva</strong></figcaption>
+<iframe width="300" height="150" src="https://www.youtube.com/embed/AAsBFdGRdwM" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1775846089831-caafiwwc3","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Una infografía es una forma de explicar información de manera clara y visual. Combina palabras cortas, dibujos, iconos o imágenes para que sea fácil de entender.</p>\n<p>Sirve para mostrar ideas importantes de forma rápida, sin escribir mucho texto.</p>\n<figure class=\"exe-figure exe-media position-center\" style=\"width: 300px;\" id=\"fig_7gczfmymz\">\n<figcaption class=\"figcaption header\"><strong>Cómo hacer una infografía en Canva</strong></figcaption>\n<iframe width=\"300\" height=\"150\" src=\"https://www.youtube.com/embed/AAsBFdGRdwM\" allowfullscreen=\"allowfullscreen\" data-mce-fragment=\"1\"></iframe></figure>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1775843903598-wvo6w4edc</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>SESIÓN 4: CREAMOS NUESTRO PODCAST</pageName>
+  <odeNavStructureOrder>9</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>SESIÓN 4: CREAMOS NUESTRO PODCAST</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1775843903598-wvo6w4edc</odePageId>
+      <odeBlockId>block-1775843952886-7v56upgkf</odeBlockId>
+      <blockName>Instrucciones</blockName>
+      <iconName>guide</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1775843903598-wvo6w4edc</odePageId>
+          <odeBlockId>block-1775843952886-7v56upgkf</odeBlockId>
+          <odeIdeviceId>idevice-1775843952885-povy7eubc</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Graba un audio con tu pareja, explicando vuestra infografía. Podeis crear un pequeño guión escrito que os ayude en la grabación: <br />Sigue este guión: </p>
+<ul>
+<li>Presentación  </li>
+<li>Explicamos nuestras normas  </li>
+<li>Decimos por qué son importantes  </li>
+<li>Despedida  </li>
+</ul>
+<p>Duración: 1-2 minuto aproximadamente</p>
+<p>Lo haremos con la Grabadora de voz de la tablet.</p>
+<p><strong>IMPORTANTE! </strong>Es necesario que los dos integrantes intervengáis en el podcast aproximadamente el mismo tiempo. </p>
+<p>Compartimos el audio con la profesora por el Teams.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1775843952885-povy7eubc","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Graba un audio con tu pareja, explicando vuestra infografía. Podeis crear un pequeño guión escrito que os ayude en la grabación: <br />Sigue este guión: </p>\n<ul>\n<li>Presentación  </li>\n<li>Explicamos nuestras normas  </li>\n<li>Decimos por qué son importantes  </li>\n<li>Despedida  </li>\n</ul>\n<p>Duración: 1-2 minuto aproximadamente</p>\n<p>Lo haremos con la Grabadora de voz de la tablet.</p>\n<p><strong>IMPORTANTE! </strong>Es necesario que los dos integrantes intervengáis en el podcast aproximadamente el mismo tiempo. </p>\n<p>Compartimos el audio con la profesora por el Teams.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1775846823279-u34w58cqt</odePageId>
+  <odeParentPageId>page-1775843903598-wvo6w4edc</odeParentPageId>
+  <pageName>¿Qué es un podcast?</pageName>
+  <odeNavStructureOrder>13</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>¿Qué es un podcast?</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1775846823279-u34w58cqt</odePageId>
+      <odeBlockId>block-1775846826112-pte5ghxc3</odeBlockId>
+      <blockName>Descripción</blockName>
+      <iconName>geography</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1775846823279-u34w58cqt</odePageId>
+          <odeBlockId>block-1775846826112-pte5ghxc3</odeBlockId>
+          <odeIdeviceId>idevice-1775846826111-d9p9a49cy</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Un podcast es un audio que grabamos con nuestra voz para explicar algo o contar una idea.</p>
+<p>Es como un programa de radio, pero más corto y sencillo.</p>
+<p>En un podcast podemos hablar, explicar, opinar o contar algo importante para que otras personas lo escuchen.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1775846826111-d9p9a49cy","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Un podcast es un audio que grabamos con nuestra voz para explicar algo o contar una idea.</p>\n<p>Es como un programa de radio, pero más corto y sencillo.</p>\n<p>En un podcast podemos hablar, explicar, opinar o contar algo importante para que otras personas lo escuchen.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1775844384597-wd3yy2nyv</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>EVALUACIÓN</pageName>
+  <odeNavStructureOrder>10</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>EVALUACIÓN</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1775844384597-wd3yy2nyv</odePageId>
+      <odeBlockId>block-1775844507365-0phpwvcko</odeBlockId>
+      <blockName>Rúbrica: ¿Qué se va a valorar?</blockName>
+      <iconName>draw</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1775844384597-wd3yy2nyv</odePageId>
+          <odeBlockId>block-1775844507365-0phpwvcko</odeBlockId>
+          <odeIdeviceId>idevice-1775844507364-kmsj9dm2o</odeIdeviceId>
+          <odeIdeviceTypeName>rubric</odeIdeviceTypeName>
+          <htmlView><![CDATA[<table class='exe-table'><caption>Rúbrica de evaluación</caption><thead><tr><th>&nbsp;</th><th>Ampliamente adquirido</th><th>Adquirido</th><th>En desarrollo</th><th>Iniciado</th></tr></thead><tbody><tr><th>Comprensión lectora</th><td>Comprende el texto completamente e identifica problema y solución con claridad <span>(1)</span></td><td>Comprende el texto y responde adecuadamente <span>(0.75)</span></td><td>Comprende parcialmente, necesita ayuda <span>(0.50)</span></td><td>Tiene dificultades para entender el texto <span>(0.25)</span></td></tr><tr><th>Identificacion de problemas de convivencia</th><td>Identifica claramente el conflicto y lo explica con sentido <span>(1)</span></td><td>Identifica el conflicto <span>(0.75)</span></td><td>Identifica parcialmente el problema <span>(0.50)</span></td><td>No identifica el problema <span>(0.25)</span></td></tr><tr><th>Inferencias y reflexión</th><td>Explica causas, consecuencias y propone soluciones coherentes <span>(1)</span></td><td>Explica alguna causa o solución <span>(0.75)</span></td><td>Le cuesta explicar o justificar <span>(0.50)</span></td><td>No realiza inferencias <span>(0.25)</span></td></tr><tr><th>Expresión escrita </th><td>Escribe con claridad, frases completas y coherentes <span>(1)</span></td><td>Escribe de forma comprensible <span>(0.75)</span></td><td>Escribe con dificultad o frases incompletas <span>(0.50)</span></td><td>No logra expresar ideas <span>(0.25)</span></td></tr><tr><th>Trabajo en equipo</th><td>Colabora activamente, respeta turnos y ayuda a su pareja <span>(1)</span></td><td>Trabaja en pareja con normalidad <span>(0.75)</span></td><td>Participa de forma irregular <span>(0.50)</span></td><td>No colabora ni participa <span>(0)</span></td></tr></tbody></table><ul class="exe-rubrics-strings"><li class="activity">Actividad</li><li class="name">Nombre</li><li class="date">Fecha</li><li class="score">Puntuación</li><li class="notes">Notas</li><li class="reset">Reiniciar</li><li class="print">Imprimir</li><li class="apply">Aplicar</li><li class="newWindow">Ventana nueva</li></ul>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1775848272270-jqt3jzeed</odePageId>
+  <odeParentPageId>page-1775844384597-wd3yy2nyv</odeParentPageId>
+  <pageName>Autoevaluación</pageName>
+  <odeNavStructureOrder>14</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Autoevaluación</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1775848272270-jqt3jzeed</odePageId>
+      <odeBlockId>block-1775848870233-xu811zm8h</odeBlockId>
+      <blockName>¿Cómo lo he hecho?</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1775848272270-jqt3jzeed</odePageId>
+          <odeBlockId>block-1775848870233-xu811zm8h</odeBlockId>
+          <odeIdeviceId>idevice-1775848870231-3fxafttko</odeIdeviceId>
+          <odeIdeviceTypeName>form</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-form-container">
+  <div class="game-evaluation-ids js-hidden" data-id="idevice-1775848870231-3fxafttko" data-evaluationb="false" data-evaluationid="ee4ec60c-bba7-4e6b-a109-b74487984ddc"></div>
+            <div id="frmMainContainer-idevice-1775848870231-3fxafttko" class="form-IDevice" data-id="idevice-1775848870231-3fxafttko">
+                <div class="form-Data js-hidden">{}</div>
+                <div class="form-instructions"><p>Este juego no tiene nota.</p>
+<p>Sirve para que pienses sobre cómo has trabajado y qué has aprendido.</p>
+<p>No pasa nada si te equivocas 😊</p>
+<p>Lo importante es reflexionar y hacerlo lo mejor posible</p></div>
+                <div class="FRMP-GameScoreBoard" style="display:none;">
+                    <div>
+                        <strong><span class="sr-av">Tiempo por pregunta:</span></strong>
+                        <span id="frmPTime-idevice-1775848870231-3fxafttko">00:00</span>
+                    </div>
+                </div>
+                <div class="FRMP-StartGame" id="frmStartGameDiv-idevice-1775848870231-3fxafttko" style="display:none;">
+                      <button  id="frmStartGame-idevice-1775848870231-3fxafttko" type="button" class="btn btn-primary">Pulsa aquí para empezar</button>
+                </div>
+                <div class="form-body" id="frmBody-idevice-1775848870231-3fxafttko" style="display:block;">
+                    <div class="FRMP-Questions">
+                        <div id="form-questions-idevice-1775848870231-3fxafttko" > </div>
+                        <div id="frmCover-idevice-1775848870231-3fxafttko" class="FRMP-Cover"> </div>
+                    </div>
+                    <div id="resultsContainer-idevice-1775848870231-3fxafttko" class="form-results-container inline">
+                        <div id="form-score-idevice-1775848870231-3fxafttko" class="score-text">Puntuación.</div>
+                        <div id="form-result-test-idevice-1775848870231-3fxafttko" class="score-text phrase-score"></div>
+                    </div>
+                    <div class="form-buttons-container inline">
+                        <input id="form-button-check-idevice-1775848870231-3fxafttko" class="btn btn-primary" type="button" value="Comprobar"
+                            data-id="idevice-1775848870231-3fxafttko" data-pass-rate="" />
+                        <input id="form-button-reset-idevice-1775848870231-3fxafttko" type="button" value="Reiniciar"
+                            data-id="idevice-1775848870231-3fxafttko" class="btn btn-primary"  style="display:none" />
+                        <input id="form-button-show-answers-idevice-1775848870231-3fxafttko" class="btn btn-primary" type="button" value="Mostrar respuestas"
+                            data-id="idevice-1775848870231-3fxafttko" style="display: " />
+
+                    </div>
+                </div>
+                <div class="Games-BottonContainer">
+                    <div class="Games-GetScore">
+                        <input id="frmPSendScore-idevice-1775848870231-3fxafttko" type="button" value="Guardar la puntuación" class="feedbackbutton Games-SendScore" style="display:none"/> <span class="Games-RepeatActivity"></span>
+                    </div>
+                </div>
+                
+            </div>
+            <div class="questionsMedia" style="display:none"></div>
+            
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1775848870231-3fxafttko","evaluation":false,"evaluationID":"ee4ec60c-bba7-4e6b-a109-b74487984ddc","repeatActivity":true,"isScorm":0,"textButtonScorm":"Guardar la puntuación","weighted":100,"msgs":{"msgScoreScorm":"La puntuación no se puede guardar porque esta página no forma parte  de un paquete SCORM.","msgYouScore":"Tu puntuación es","msgScore":"Puntuación","msgWeight":"Peso","msgYouLastScore":"La última puntuación guardada es","msgOnlySaveScore":"¡Solo puede guardar la puntuación una vez!","msgOnlySave":"Solo puede guardar una vez","msgOnlySaveAuto":"Su puntuación se guardará después de cada pregunta. Solo puede jugar una vez.","msgSaveAuto":"Su puntuación se guardará automáticamente después de cada pregunta.","msgSeveralScore":"Puede guardar la puntuación tantas veces como quiera","msgPlaySeveralTimes":"Puede realizar esta actividad cuantas veces quiera","msgActityComply":"Ya ha realizado esta actividad.","msgUncompletedActivity":"Actividad no completada","msgSuccessfulActivity":"Actividad superada. Puntuación: %s","msgUnsuccessfulActivity":"Actividad no superada. Puntuación: %s","msgTypeGame":"Formulario","msgStartGame":"Pulsa aquí para empezar","msgTime":"Tiempo por pregunta","msgSaveScore":"Guardar la puntuación","msgResult":"Resultado","msgCheck":"Comprobar","msgReset":"Reiniciar","msgShowAnswers":"Mostrar respuestas","msgTestResultPass":"¡Felicidades! Has pasado la prueba","msgTestResultNotPass":"Lo siento. Has fallado la prueba","msgTrueFalseHelp":"Di si la afirmación es verdadera o falsa","msgDropdownHelp":"Elige la respuesta correcta entre las opciones propuestas","msgFillHelp":"Rellena los espacios en blanco con la palabra apropiada","msgSingleSelectionHelp":"Opción múltiple con solo una respuesta correcta","msgMultipleSelectionHelp":"Opción múltiple con varias respuestas correctas","msgPlayStart":"Pulsa aquí para empezar","msgTrue":"Verdadero","msgFalse":"Falso","msgNext":"Siguiente","msgPrevious":"Anterior","msgSuggestion":"Sugerencia"},"id":"idevice-1775848870231-3fxafttko","questionsRandom":false,"percentageQuestions":"100","time":"0","eXeFormInstructions":"<p>Este juego no tiene nota.</p>\n<p>Sirve para que pienses sobre cómo has trabajado y qué has aprendido.</p>\n<p>No pasa nada si te equivocas 😊</p>\n<p>Lo importante es reflexionar y hacerlo lo mejor posible</p>","questionsData":[{"id":"1775848981699-4L0R0","activityType":"selection","baseText":"<p>📖 ¿He entendido los textos?</p>","feedbackRight":"","feedbackWrong":"","suggestion":"","wrongAnswersValue":"","selectionType":"multiple","answers":[[false,"Sí, muy bien"],[false,"Más o menos"],[false,"Me ha costado"]],"answer":"1","capitalization":false,"strict":false,"order":0,"customScore":1,"time":0},{"id":"1775849032278-SOMSI","activityType":"selection","baseText":"<p>🤝 ¿He trabajado bien con mi compañero/a?</p>","feedbackRight":"","feedbackWrong":"","suggestion":"","wrongAnswersValue":"","selectionType":"multiple","answers":[[false,"Si, he colaborado"],[false,"A veces"],[false,"Me ha costado"]],"answer":"1","capitalization":false,"strict":false,"order":0,"customScore":1,"time":0},{"id":"1775849115326-H8SU4","activityType":"selection","baseText":"<p>🎨 ¿Mi infografía se entiende bien?</p>","feedbackRight":"","feedbackWrong":"","suggestion":"","wrongAnswersValue":"","selectionType":"multiple","answers":[[false,"Si, se entiendo bien"],[false,"Se entiende aunque hay cosas a mejorar"],[false,"Es difícil de entender"]],"answer":"1","capitalization":false,"strict":false,"order":0,"customScore":1,"time":0},{"id":"1775849207832-VC8RH","activityType":"selection","baseText":"<p>🎙️ ¿Se entiende mi participación en el podcast?</p>","feedbackRight":"","feedbackWrong":"","suggestion":"","wrongAnswersValue":"","selectionType":"multiple","answers":[[false,"Sí, hablo claro"],[false,"Se entiende aunque tengo que mejorar algunos aspectos de mi intervención"],[false,"Cuesta entender mi intervención"]],"answer":"1","capitalization":false,"strict":false,"order":0,"customScore":1,"time":0}],"passRate":5,"addBtnAnswers":true,"eXeIdeviceTextAfter":"","showSlider":false}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1775846021813-mwc4q8n3b</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>DESCARGA</pageName>
+  <odeNavStructureOrder>11</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>DESCARGA</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>DESCARGA</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1775846021813-mwc4q8n3b</odePageId>
+      <odeBlockId>block-1775846377818-dpd49nrym</odeBlockId>
+      <blockName>Descargar el archivo fuente</blockName>
+      <iconName>download</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1775846021813-mwc4q8n3b</odePageId>
+          <odeBlockId>block-1775846377818-dpd49nrym</odeBlockId>
+          <odeIdeviceId>idevice-1775846377816-hmamouoc3</odeIdeviceId>
+          <odeIdeviceTypeName>download-source-file</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-download-package-instructions"><table class="exe-table exe-package-info"><caption>Información general sobre este recurso educativo</caption>
+<tbody>
+<tr>
+<th>Título</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-title">Leo, entiendo y convivo mejor</span></td>
+</tr>
+<tr>
+<th>Descripción</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-description">-</span></td>
+</tr>
+<tr>
+<th>Autoría</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-author">Ana Isabel Suárez Díaz</span></td>
+</tr>
+<tr>
+<th>Licencia</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-license">creative commons: attribution - share alike 4.0</span></td>
+</tr>
+</tbody>
+</table>
+<p style="text-align: center;">Este contenido fue creado con <a href="https://exelearning.net/">eXeLearning</a>, el editor libre y de fuente abierta diseñado para crear recursos educativos.</p></div><p class="exe-download-package-link"><a download="exe-package:elp-name" href="exe-package:elp" style="background-color:#107275;color:#ffffff;">Descargar el archivo .elpx</a></p>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+</odeNavStructures>
+</ode>
